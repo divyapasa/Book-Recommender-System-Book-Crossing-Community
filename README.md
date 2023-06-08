@@ -1,4 +1,4 @@
-# Book-Recommender-System-Book-Crossing-Community
+# Book Recommender System Book Crossing Community
 Book Recommender System-Book Crossing Community
 
 The Book-Crossing dataset is a collection of ratings and reviews for over 270,000 books from the Book-Crossing community. The dataset includes information on each book's title, author, publication year, and publisher, as well as ratings and reviews from the community's members. The ratings range from 0 to 10, with higher ratings indicating that the reader enjoyed the book more. This dataset is used for building recommendation systems and studying user behavior and preferences in the context of book reading.
