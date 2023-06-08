@@ -5,11 +5,15 @@ The Book-Crossing dataset is a collection of ratings and reviews for over 270,00
 ![image](https://github.com/divyapasa/Book-Recommendation-System-Python-Project/assets/54399391/4692d13b-c5d3-491d-aef8-9820ec754453)
 
 # Tools
-Python: Used Python programming language for data analysis, manipulation, and modeling.
-Pandas: Employed Pandas library for data manipulation and analysis tasks.
+* Python: Used Python programming language for data analysis, manipulation, and modeling.
+* Pandas: Employed Pandas library for data manipulation and analysis tasks.
+
 NumPy: Used NumPy library for numerical computations and array operations.
+
 Matplotlib: Utilized Matplotlib library for data visualization and creating charts and graphs.
+
 Scikit-learn: Used Scikit-learn library for implementing machine learning algorithms.
+
 Jupyter Notebook: Used Jupyter Notebook for interactive data exploration, analysis, and code documentation.
 Git: Utilized Git version control system for managing and tracking project code changes.
 
