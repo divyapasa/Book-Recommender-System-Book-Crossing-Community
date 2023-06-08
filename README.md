@@ -4,6 +4,25 @@ Book Recommender System-Book Crossing Community
 The Book-Crossing dataset is a collection of ratings and reviews for over 270,000 books from the Book-Crossing community. The dataset includes information on each book's title, author, publication year, and publisher, as well as ratings and reviews from the community's members. The ratings range from 0 to 10, with higher ratings indicating that the reader enjoyed the book more. This dataset is used for building recommendation systems and studying user behavior and preferences in the context of book reading.
 ![image](https://github.com/divyapasa/Book-Recommendation-System-Python-Project/assets/54399391/4692d13b-c5d3-491d-aef8-9820ec754453)
 
+# Tools
+Python: Used Python programming language for data analysis, manipulation, and modeling.
+Pandas: Employed Pandas library for data manipulation and analysis tasks.
+NumPy: Used NumPy library for numerical computations and array operations.
+Matplotlib: Utilized Matplotlib library for data visualization and creating charts and graphs.
+Scikit-learn: Used Scikit-learn library for implementing machine learning algorithms.
+Jupyter Notebook: Used Jupyter Notebook for interactive data exploration, analysis, and code documentation.
+Git: Utilized Git version control system for managing and tracking project code changes.
+
+# Skills
+Data Analysis: Conducted in-depth data analysis to explore patterns, trends, and relationships within the dataset.
+Data Manipulation: Demonstrated proficiency in manipulating and transforming data using Pandas and NumPy.
+Data Visualization: Created visualizations using Matplotlib to effectively communicate insights and findings.
+Machine Learning: Applied machine learning techniques, particularly collaborative filtering, for building recommendation systems.
+Programming: Utilized Python programming language for implementing data analysis and machine learning algorithms.
+Problem Solving: Employed analytical and problem-solving skills to tackle challenges and derive meaningful insights.
+Documentation: Used Jupyter Notebook to document code, analysis steps, and findings in a clear and organized manner.
+Version Control: Utilized Git for version control, enabling efficient collaboration and tracking of code changes.
+
 # Goal
 The main goal of the Book Recommendation dataset project is to facilitate research and analysis in areas such as recommendation systems, user behavior analysis, book popularity trends, and more. The dataset contains information about books, ratings given by users, and user demographics. 
 
